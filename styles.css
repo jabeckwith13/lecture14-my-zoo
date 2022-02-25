@@ -1,0 +1,17 @@
+p {
+    background-color: red;
+    color: white;
+}
+
+img {
+    max-height: 600px;
+    max-width: 600px;
+}
+
+.my-class {
+    color: blue;
+}
+
+#my-id {
+    background-color: green;
+}
